@@ -6,4 +6,5 @@ svar = [x*x for x in range(11)]
     
 for t, s in zip(tall,svar):
     print(f"Kvadratet av {t} er {s}.")
-    
+#
+
